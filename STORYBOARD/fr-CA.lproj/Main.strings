@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "-9999"; ObjectID = "0CH-xE-jdq"; */
+"0CH-xE-jdq.text" = "-9999";
+
+/* Class = "UILabel"; text = "999"; ObjectID = "1aP-wa-7nO"; */
+"1aP-wa-7nO.text" = "999";
+
+/* Class = "UITabBarItem"; title = "Donate"; ObjectID = "2MP-49-Psi"; */
+"2MP-49-Psi.title" = "Donate";
+
+/* Class = "UILabel"; text = "Still available"; ObjectID = "2W2-J6-wWB"; */
+"2W2-J6-wWB.text" = "Still available";
+
+/* Class = "UIButton"; normalTitle = "TAKE A PHOTO"; ObjectID = "8Bk-4p-5YA"; */
+"8Bk-4p-5YA.normalTitle" = "TAKE A PHOTO";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "8QP-1T-Z4l"; */
+"8QP-1T-Z4l.text" = "99";
+
+/* Class = "UINavigationItem"; title = "ASK"; ObjectID = "9b4-9e-dJ4"; */
+"9b4-9e-dJ4.title" = "ASK";
+
+/* Class = "UILabel"; text = "Donation name"; ObjectID = "9f2-lx-AVk"; */
+"9f2-lx-AVk.text" = "Donation name";
+
+/* Class = "UIViewController"; title = "Asking for"; ObjectID = "AzV-Jf-Z70"; */
+"AzV-Jf-Z70.title" = "Asking for";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "Bjl-ZE-XGa"; */
+"Bjl-ZE-XGa.title" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "Destination not found"; ObjectID = "Cl4-Gw-3u7"; */
+"Cl4-Gw-3u7.normalTitle" = "Destination not found";
+
+/* Class = "UIViewController"; title = "My Requests"; ObjectID = "DKu-5p-PRB"; */
+"DKu-5p-PRB.title" = "My Requests";
+
+/* Class = "UITextView"; text = "Type the address here"; ObjectID = "FB9-se-aAc"; */
+"FB9-se-aAc.text" = "Type the address here";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Grv-35-Ijr"; */
+"Grv-35-Ijr.text" = "1";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "Hh7-FG-7Dh"; */
+"Hh7-FG-7Dh.text" = "9999";
+
+/* Class = "UITableViewController"; title = "Destinations"; ObjectID = "Ihm-kC-hwl"; */
+"Ihm-kC-hwl.title" = "Destinations";
+
+/* Class = "UIButton"; normalTitle = "10 bags"; ObjectID = "MBm-OE-XNd"; */
+"MBm-OE-XNd.normalTitle" = "10 bags";
+
+/* Class = "UIButton"; normalTitle = "New request"; ObjectID = "MY2-Dz-Kcv"; */
+"MY2-Dz-Kcv.normalTitle" = "Demander";
+
+/* Class = "UITextView"; text = "ADDRESS"; ObjectID = "Mw1-WF-0FM"; */
+"Mw1-WF-0FM.text" = "ADDRESS";
+
+/* Class = "UIButton"; normalTitle = "Undo all changes"; ObjectID = "OCg-jm-yRS"; */
+"OCg-jm-yRS.normalTitle" = "Undo all changes";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "ODN-tQ-RQd"; */
+"ODN-tQ-RQd.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "PNG-o7-1Bk"; */
+"PNG-o7-1Bk.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "Cancel destination"; ObjectID = "VfV-wa-e4c"; */
+"VfV-wa-e4c.normalTitle" = "Cancel destination";
+
+/* Class = "UITextView"; text = "Se achar necessário, escreva aqui o endereço ou mais detalhes sobre como chegar."; ObjectID = "WVU-wv-VUm"; */
+"WVU-wv-VUm.text" = "Se achar necessário, escreva aqui o endereço ou mais detalhes sobre como chegar.";
+
+/* Class = "UIButton"; normalTitle = "Take a new photo"; ObjectID = "a0T-6Z-bRF"; */
+"a0T-6Z-bRF.normalTitle" = "Take a new photo";
+
+/* Class = "UINavigationItem"; title = "DONATE"; ObjectID = "g9A-uf-O9L"; */
+"g9A-uf-O9L.title" = "DONATE";
+
+/* Class = "UITabBarItem"; title = "ASK"; ObjectID = "hAl-VI-7Yx"; */
+"hAl-VI-7Yx.title" = "ASK";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "ikc-q5-tbR"; */
+"ikc-q5-tbR.text" = "9999";
+
+/* Class = "UITextField"; text = "Name"; ObjectID = "lFa-7a-LjG"; */
+"lFa-7a-LjG.text" = "Name";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "lT5-gY-d3b"; */
+"lT5-gY-d3b.text" = "99";
+
+/* Class = "UILabel"; text = "456 Rue de la Chose"; ObjectID = "mqL-HK-T7b"; */
+"mqL-HK-T7b.text" = "456 Rue de la Chose";
+
+/* Class = "UILabel"; text = "Fulano"; ObjectID = "nXl-Sp-ioK"; */
+"nXl-Sp-ioK.text" = "Fulano";
+
+/* Class = "UIButton"; normalTitle = "Previous requests"; ObjectID = "p24-PO-ba6"; */
+"p24-PO-ba6.normalTitle" = "Previous requests";
+
+/* Class = "UILabel"; text = "Beltrano"; ObjectID = "p9X-I6-Nyx"; */
+"p9X-I6-Nyx.text" = "Beltrano";
+
+/* Class = "UILabel"; text = "Coming to pick up"; ObjectID = "pC8-rn-tjv"; */
+"pC8-rn-tjv.text" = "Coming to pick up";
+
+/* Class = "UILabel"; text = "10 minutes ago"; ObjectID = "r03-5Q-le5"; */
+"r03-5Q-le5.text" = "10 minutes ago";
+
+/* Class = "UINavigationItem"; title = "TAKE"; ObjectID = "v6r-aK-FUt"; */
+"v6r-aK-FUt.title" = "TAKE";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "vND-TK-hNW"; */
+"vND-TK-hNW.normalTitle" = "GO";
+
+/* Class = "UITabBarItem"; title = "Take"; ObjectID = "wsV-MF-6hf"; */
+"wsV-MF-6hf.title" = "Take";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xJd-yI-IPC"; */
+"xJd-yI-IPC.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Finish trip"; ObjectID = "yCt-KP-ayp"; */
+"yCt-KP-ayp.normalTitle" = "Finish trip";
+
+/* Class = "UILabel"; text = "9,9 Km"; ObjectID = "ytQ-Me-zRp"; */
+"ytQ-Me-zRp.text" = "9,9 Km";
